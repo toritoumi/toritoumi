@@ -1,7 +1,6 @@
 Hi, I'm @toritoumi
-I can write about python now.
-I'm learning Go and C++
-noob
+I can write python.
+I'm learning Go and C++.
 
 <!---
 toritoumi/toritoumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
