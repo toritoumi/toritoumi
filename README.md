@@ -1,6 +1,6 @@
 [@toritoumi](https://github.com/toritoumi/)
 
-My twitter account is [here](https://twitter.com/toritoumii). 
+Twitter:[@toritoumii](https://twitter.com/toritoumii). 
 
 bot, scraping, image processing, automation, etc.
 <!---
